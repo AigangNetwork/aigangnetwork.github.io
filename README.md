@@ -12,6 +12,7 @@
 - [Medium](https://medium.com/aigang-network)  
 - [Telegram](https://t.me/aigangnetwork)  
 - [Twitter](https://twitter.com/aigangnetwork)  
+- Email team@aigang.network  
   
 ## Platform Environments
 **Production**  
@@ -21,4 +22,7 @@ WEB (production branch) - [https://platform.aigang.network](https://platform.aig
 **QA**  
 API (qa branch) - [https://testapi.aigang.network/swagger](https://testapi.aigang.network/swagger)  
 WEB (qa branch) - [https://testplatform.aigang.network](https://testplatform.aigang.network/)  
-  
+
+## Contribution
+
+Everyone is welcome to contribute in development, testing, insurance products creating, risk models calculations, marketing, communication, etc... Our goal is to create open source insurance platform where all insurance specialists can easily enter and help us make this product stronger and more popular.  
