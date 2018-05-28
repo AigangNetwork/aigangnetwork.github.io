@@ -22,6 +22,7 @@ WEB (production branch) - [https://platform.aigang.network](https://platform.aig
 **QA**  
 API (qa branch) - [https://testapi.aigang.network/swagger](https://testapi.aigang.network/swagger)  
 WEB (qa branch) - [https://testplatform.aigang.network](https://testplatform.aigang.network/)  
+Test AIX fauset - [https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/)
 
 ## Contribution
 
