@@ -1,19 +1,24 @@
 [back](index.html)  
   
 # Aigang.Network FAQ  
+
+  
 **What was base ICO rate?**  
 
-1 ETH = 2000 AIX  
+1 ETH = 2000 AIX 
+
 ---
 **What was presale APT tokens rate?**  
 
 1 ETH = 1 APT  
 1 APT = 2500 AIX  
+
 ---
 **What are presale and ICO contract addresses?**  
 
 Token Sale contract [0xeA0c348A297084BFFbddad7f89216F24a2106E58](https://etherscan.io/address/0xeA0c348A297084BFFbddad7f89216F24a2106E58#readContract)  
 Presale contract [0x2D68a9A9dD9fcFFB070EA1d8218c67863bFC55Ff](https://etherscan.io/address/0x2D68a9A9dD9fcFFB070EA1d8218c67863bFC55Ff)  
+
 ---
 **What was token sale model?**  
 
@@ -29,22 +34,26 @@ After the 24h capped token sale closes. Uncollected ETH amount opens for everyon
 - 20% of ETH left will be sold with 15% bonus (was active)
 - 30% of ETH left with 10% bonus (limit not reached)
 - Remaining 50% of ETH left without bonus (limit not reached) 
+ 
 ---
 **How much ETH was collected?**  
 
 During presale: 2836 ETH  
 During ICO: 2850 ETH
+
 ---
 **What was token sale duration?**  
 
 Started: 2017-11-15T13:00:00.000Z  
 Ended: 	2017-12-15T13:00:00.000Z  
+
 ---
 **How many total tokens were created?**  
 
 29,274,567 AIX  
 Token address [0x1063ce524265d5a3A624f4914acd573dD89ce988](https://etherscan.io/address/0x1063ce524265d5a3A624f4914acd573dD89ce988#readContract)  
 Token stats [coinmarketcap.com](https://coinmarketcap.com/currencies/aigang/)  
+
 ---
 **How many tokens were sold?**  
 
