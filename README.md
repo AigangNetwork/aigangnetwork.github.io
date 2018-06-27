@@ -2,7 +2,7 @@
 - [MainPage](https://aigang.network)  
 - [Platform Documentation](http://aigang.readthedocs.io/en/latest/)  
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
-- [Company FAQ](FAQ.md)
+- [Company FAQ](FAQ.html)
   
 ## Backlogs  
 - [High level backlog](https://github.com/AigangNetwork/aigangnetwork.github.io/projects/1)  
