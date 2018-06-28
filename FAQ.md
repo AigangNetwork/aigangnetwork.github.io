@@ -1,4 +1,4 @@
-[back](index.html)  
+[back](https://aigangnetwork.github.io)  
   
 # Aigang.Network FAQ  
 
@@ -79,6 +79,6 @@ Tokens are locked in:
 - DevTokenHolder contract [0xF6A667eeC255EBee62beeD4b725774dE45F9e8DE](https://etherscan.io/address/0xF6A667eeC255EBee62beeD4b725774dE45F9e8DE#readContract) which unlock 25% each 3 months. Currently (2018-06-27) it holds 2,927,456 AIX tokens and at 2018-09-15 release half of them.  
 - CommunityTokenHolder contract [0x3b025EABf29b05566BDcbd3bCb46801Cb6C6F372](https://etherscan.io/address/0x3b025EABf29b05566BDcbd3bCb46801Cb6C6F372#readContract) it holds 5,562,167 AIX tokens and at 2018-12-15 release them.  
 
-[back](index.html)  
+[back](https://aigangnetwork.github.io)  
 
   
