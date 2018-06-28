@@ -58,7 +58,7 @@ Token stats [coinmarketcap.com](https://coinmarketcap.com/currencies/aigang/)
 **How many tokens were sold?**  
 
 **51%** (14,930,029 AIX) of tokens are sold to public on presale and ICO  
-- Some tokens from this part are Locked in presale APT to AIX exchange [0xb02533F3aCf5BEbEdcF6B11a83951Bb80d45B65F](https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988?a=0xb02533F3aCf5BEbEdcF6B11a83951Bb80d45B65F)  
+- Some tokens from this part are Locked in presale APT to AIX exchange [0xb02533F3aCf5BEbEdcF6B11a83951Bb80d45B65F](https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988?a=0xb02533F3aCf5BEbEdcF6B11a83951Bb80d45B65F). It is a manual process to unlock them and depends on the contributor.
 
 **49%** (14,344,537 AIX) of tokens are manageable by team.  
 
@@ -69,6 +69,7 @@ There were no unsold tokens. All tokens were generated during ICO only. When inv
 
 ---
 **How many tokens does team hold?**  
+
 The company is owning multisig wallet [0x4cbb51ee8611d45fedc37d99d0e05c7d1fc2c49d](https://etherscan.io/address/0x4cbb51ee8611d45fedc37d99d0e05c7d1fc2c49d) you can follow balance there.  
 
 ---
