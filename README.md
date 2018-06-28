@@ -1,5 +1,6 @@
 # Aigang.Network Developers wiki page  
 - [MainPage](https://aigang.network)  
+- [Whitepaper](https://aigang.network/whitepaper) 
 - [Platform Documentation](http://aigang.readthedocs.io/en/latest/)  
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
 - [Company FAQ](FAQ.html)
@@ -13,6 +14,7 @@
 - [Medium](https://medium.com/aigang-network)  
 - [Telegram](https://t.me/aigangnetwork)  
 - [Twitter](https://twitter.com/aigangnetwork)  
+- Slack is used only with invitations.  
 - Email team@aigang.network  
   
 ## Platform Environments
