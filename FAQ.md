@@ -69,8 +69,7 @@ There were no unsold tokens. All tokens were generated during ICO only. When inv
 
 ---
 **How many tokens does team hold?**  
-
-This is not public information  
+The company is owning multisig wallet [0x4cbb51ee8611d45fedc37d99d0e05c7d1fc2c49d](https://etherscan.io/address/0x4cbb51ee8611d45fedc37d99d0e05c7d1fc2c49d) you can follow balance there.  
 
 ---
 **How long team manageable tokens are locked? Proof?** 
