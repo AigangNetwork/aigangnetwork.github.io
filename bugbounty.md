@@ -30,18 +30,18 @@ LEVEL 4  Low:      **$0 - $60**
 
 ## Testing Targets
   
-**website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/")  
-**api** -  https://testapi.aigang.network/swagger/[https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/ "https://testapi.aigang.network/swagger/")  
-**android app **- [https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android](https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android "https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android")  
-**insurance contracts **- [https://github.com/AigangNetwork/aigang-platform-contracts-insurance](https://github.com/AigangNetwork/aigang-platform-contracts-insurance "https://github.com/AigangNetwork/aigang-platform-contracts-insurance")  
-**prediction market contracts **-  [https://github.com/AigangNetwork/aigang-platform-contracts-predictions](https://github.com/AigangNetwork/aigang-platform-contracts-predictions "https://github.com/AigangNetwork/aigang-platform-contracts-predictions")  
+**website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/)  
+**api** - [https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/)  
+**android app** - [https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android](https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android)  
+**insurance contracts** - [https://github.com/AigangNetwork/aigang-platform-contracts-insurance](https://github.com/AigangNetwork/aigang-platform-contracts-insurance)  
+**prediction market contracts** -  [https://github.com/AigangNetwork/aigang-platform-contracts-predictions](https://github.com/AigangNetwork/aigang-platform-contracts-predictions)  
 
 ## Preparation For testing:
 
-**Ropsten test network ETH**. You can generate them using Metamask browser extension ([https://metamask.io/](https://metamask.io/ "https://metamask.io/"))  
-**TESTAIX tokens** you can generate them using our faucet ([https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/"))  
+**Ropsten test network ETH**. You can generate them using Metamask browser extension ([https://metamask.io/](https://metamask.io/))  
+**TESTAIX tokens** you can generate them using our faucet ([https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/))  
 **Android device**  
-**Valid user** registered on ([https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/"))  
+**Valid user** registered on ([https://testplatform.aigang.network/](https://testplatform.aigang.network/))  
   
 Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-web/issues/86](https://github.com/AigangNetwork/aigang-platform-web/issues/86)) to get more functionality for easier testing  
 
@@ -62,13 +62,13 @@ Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-w
 
 All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: team@aigang.network  
 
-Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will be not rewarded. 
+Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will be not rewarded.  
 
 ## Actions to avoid  
 
-Testing on accounts other than those that you own
-Excessive request attempts
-Destruction of data
+Testing on accounts other than those that you own  
+Excessive request attempts  
+Destruction of data  
 
 ## Ineligible issues  
 
@@ -94,10 +94,9 @@ Vulnerabilities that require physical access to a user's device
 
 ## Communication Channels  
   
-| Developers  | https://gitter.im/AigangNetwork/Lobby  |
-| ------------ | ------------ |
-| Telegram (community)  | https://t.me/aigangnetwork  |
-| Email  |  team@aigang.network |
+**Developers** - [https://gitter.im/AigangNetwork/Lobby](https://gitter.im/AigangNetwork/Lobby)  
+**Telegram (community)** - [https://t.me/aigangnetwork](https://t.me/aigangnetwork)  
+**Email** - team@aigang.network
 
 
 ## Extra information
