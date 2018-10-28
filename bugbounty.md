@@ -23,27 +23,30 @@ LEVEL 1  Critical: **$500 - $1000**
 LEVEL 2  Severe:   **$250 - $500**   
 LEVEL 3  Moderate: **$60 - $150**     
 LEVEL 4  Low:      **$0 - $60**     
+ 
+*Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.*  
 
-Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.
-
-We created the form where you can register for reward: //TODO: Add Link
+*We created the form where you can register for reward: //TODO: Add Link*  
 
 ## Testing Targets
   
-**website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/")
-**api** -  https://testapi.aigang.network/swagger/[https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/ "https://testapi.aigang.network/swagger/")
-**android app **- [https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android](https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android "https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android")
-**insurance contracts **- [https://github.com/AigangNetwork/aigang-platform-contracts-insurance](https://github.com/AigangNetwork/aigang-platform-contracts-insurance "https://github.com/AigangNetwork/aigang-platform-contracts-insurance")
-**prediction market contracts **-  [https://github.com/AigangNetwork/aigang-platform-contracts-predictions](https://github.com/AigangNetwork/aigang-platform-contracts-predictions "https://github.com/AigangNetwork/aigang-platform-contracts-predictions")
+**website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/")  
+**api** -  https://testapi.aigang.network/swagger/[https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/ "https://testapi.aigang.network/swagger/")  
+**android app **- [https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android](https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android "https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android")  
+**insurance contracts **- [https://github.com/AigangNetwork/aigang-platform-contracts-insurance](https://github.com/AigangNetwork/aigang-platform-contracts-insurance "https://github.com/AigangNetwork/aigang-platform-contracts-insurance")  
+**prediction market contracts **-  [https://github.com/AigangNetwork/aigang-platform-contracts-predictions](https://github.com/AigangNetwork/aigang-platform-contracts-predictions "https://github.com/AigangNetwork/aigang-platform-contracts-predictions")  
 
 ## Preparation For testing:
-You will need an android device
-**Ropsten test network ETH**. You can generate them using Metamask browser extension (https://metamask.io/)
-**TESTAIX tokens** you can generate them using our faucet (https://aigangnetwork.github.io/testaix/)
-**Valid user** registered on (https://testplatform.aigang.network/)
-Whitelist your device ID in (https://github.com/AigangNetwork/aigang-platform-web/issues/86) to get more functionality for easier testing
+
+**Ropsten test network ETH**. You can generate them using Metamask browser extension ([https://metamask.io/](https://metamask.io/ "https://metamask.io/"))  
+**TESTAIX tokens** you can generate them using our faucet ([https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/"))  
+**Android device**  
+**Valid user** registered on ([https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/"))  
+  
+Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-web/issues/86](https://github.com/AigangNetwork/aigang-platform-web/issues/86)) to get more functionality for easier testing  
 
 ## Scenario:
+
  We setup:
 - 1 datasheet with our model: 
 -- Data - https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/
@@ -56,7 +59,8 @@ Whitelist your device ID in (https://github.com/AigangNetwork/aigang-platform-we
 --// TODO Link to insurance product
 
 ## Bugs Registration  
-All bugs should be registered here: https://github.com/AigangNetwork/aigang-platform-web/issues or by email: team@aigang.network
+
+All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: team@aigang.network  
 
 Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will be not rewarded. 
 
@@ -97,9 +101,9 @@ Vulnerabilities that require physical access to a user's device
 
 
 ## Extra information
-Developers wiki page https://aigangnetwork.github.io/  [https://aigangnetwork.github.io/  ](https://aigangnetwork.github.io/   "https://aigangnetwork.github.io/  ")
-AIX faucet (Ropsten network)	[https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/")
-Documentation	[https://aigang.readthedocs.io/en/latest/](https://aigang.readthedocs.io/en/latest/ "https://aigang.readthedocs.io/en/latest/")
+Developers wiki page https://aigangnetwork.github.io/  [https://aigangnetwork.github.io/  ](https://aigangnetwork.github.io/   "https://aigangnetwork.github.io/  ")  
+AIX faucet (Ropsten network)	[https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/")  
+Documentation	[https://aigang.readthedocs.io/en/latest/](https://aigang.readthedocs.io/en/latest/ "https://aigang.readthedocs.io/en/latest/")  
 
 
 *Company reserves the right, in its sole discretion, to modify this Program rules at any time.*
