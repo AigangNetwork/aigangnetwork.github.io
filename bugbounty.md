@@ -18,34 +18,11 @@ This bounty brief describes the rules of the Aigang bug bounty program, as well 
 Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted the Aigang team will ask for your email address associated with your wallet to send your payment. 
 
 Aigang may award an additional reward bonus for exceptional reports, or double up your reward if you submit a pull request with issue fix.
-
-<table border="1" style="width:40%">
-  <tr>
-    <th>Level</th>
-    <th>Technical Severity</th>
-    <th>Reward Range</th>
-  </tr>
-  <tr>
-    <td>LEVEL 1</td>
-    <td>Critical</td>
-    <td>$500 - $1000</td>
-  </tr>
-    <tr>
-    <td>LEVEL 2</td>
-    <td>Severe</td>
-    <td>$250 - $500</td>
-  </tr>
-    <tr>
-    <td>LEVEL 3</td>
-    <td>Moderate</td>
-    <td>$60 - $150</td>
-  </tr>
-    <tr>
-    <td>LEVEL 4</td>
-    <td>Low</td>
-    <td>$0 - $60</td>
-  </tr>
-</table>
+ 
+LEVEL 1  Critical: **$500 - $1000**    
+LEVEL 2  Severe:   **$250 - $500**   
+LEVEL 3  Moderate: **$60 - $150**     
+LEVEL 4  Low:      **$0 - $60**     
 
 Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.
 
@@ -53,13 +30,11 @@ We created the form where you can register for reward: //TODO: Add Link
 
 ## Testing Targets
   
-
-|  website  | https://testplatform.aigang.network/  |
-| ------------ | ------------ |
-| api  | https://testapi.aigang.network/swagger/  |
-| android app  | https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android  |
-| Insurance contracts  |  https://github.com/AigangNetwork/aigang-platform-contracts-insurance |
-| PM contracts  |  https://github.com/AigangNetwork/aigang-platform-contracts-predictions |
+**website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/ "https://testplatform.aigang.network/")
+**api** -  https://testapi.aigang.network/swagger/[https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/ "https://testapi.aigang.network/swagger/")
+**android app **- [https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android](https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android "https://github.com/AigangNetwork/aigang-insurance-app/tree/master/android")
+**insurance contracts **- [https://github.com/AigangNetwork/aigang-platform-contracts-insurance](https://github.com/AigangNetwork/aigang-platform-contracts-insurance "https://github.com/AigangNetwork/aigang-platform-contracts-insurance")
+**prediction market contracts **-  [https://github.com/AigangNetwork/aigang-platform-contracts-predictions](https://github.com/AigangNetwork/aigang-platform-contracts-predictions "https://github.com/AigangNetwork/aigang-platform-contracts-predictions")
 
 ## Preparation For testing:
 You will need an android device
@@ -122,32 +97,11 @@ Vulnerabilities that require physical access to a user's device
 
 
 ## Extra information
-Developers wiki page https://aigangnetwork.github.io/  
-AIX faucet (Ropsten network)	https://aigangnetwork.github.io/testaix/
-Documentation	https://aigang.readthedocs.io/en/latest/
+Developers wiki page https://aigangnetwork.github.io/  [https://aigangnetwork.github.io/  ](https://aigangnetwork.github.io/   "https://aigangnetwork.github.io/  ")
+AIX faucet (Ropsten network)	[https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/")
+Documentation	[https://aigang.readthedocs.io/en/latest/](https://aigang.readthedocs.io/en/latest/ "https://aigang.readthedocs.io/en/latest/")
 
 
 *Company reserves the right, in its sole discretion, to modify this Program rules at any time.*
-
-
-<table >
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
-
-
 
 [back](https://aigangnetwork.github.io)  
