@@ -18,14 +18,34 @@ This bounty brief describes the rules of the Aigang bug bounty program, as well 
 Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted the Aigang team will ask for your email address associated with your wallet to send your payment. 
 
 Aigang may award an additional reward bonus for exceptional reports, or double up your reward if you submit a pull request with issue fix.
-  
 
-Level    | Technical Severity | Reward Range 
----------|--------------------|-------------
-LEVEL 1 | Critical           | $500 - $1000 
-LEVEL 2 | Severe             | $250 - $500  
-LEVEL 3 | Moderate           | $60 - $150   
-LEVEL 4 | Low                | $0 - $60     
+<table border="1" style="width:40%">
+  <tr>
+    <th>Level</th>
+    <th>Technical Severity</th>
+    <th>Reward Range</th>
+  </tr>
+  <tr>
+    <td>LEVEL 1</td>
+    <td>Critical</td>
+    <td>$500 - $1000</td>
+  </tr>
+    <tr>
+    <td>LEVEL 2</td>
+    <td>Severe</td>
+    <td>$250 - $500</td>
+  </tr>
+    <tr>
+    <td>LEVEL 3</td>
+    <td>Moderate</td>
+    <td>$60 - $150</td>
+  </tr>
+    <tr>
+    <td>LEVEL 4</td>
+    <td>Low</td>
+    <td>$0 - $60</td>
+  </tr>
+</table>
 
 Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.
 
@@ -110,7 +130,7 @@ Documentation	https://aigang.readthedocs.io/en/latest/
 *Company reserves the right, in its sole discretion, to modify this Program rules at any time.*
 
 
-<table style="width:100%">
+<table >
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
