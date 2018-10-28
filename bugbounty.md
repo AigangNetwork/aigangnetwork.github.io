@@ -15,6 +15,7 @@ This bounty brief describes the rules of the Aigang bug bounty program, as well 
 Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted the Aigang team will ask for your email address associated with your wallet to send your payment. 
 
 Aigang may award an additional reward bonus for exceptional reports, or double up your reward if you submit a pull request with issue fix.
+  
 
 |         | Technical Severity | Reward Range |
 |---------|--------------------|--------------|
@@ -28,6 +29,7 @@ Please note that the TEAM will decide which level will be assigned for the issue
 We created the form where you can register for reward: //TODO: Add Link
 
 ## Testing Targets
+  
 
 |  website  | https://testplatform.aigang.network/  |
 | ------------ | ------------ |
@@ -55,38 +57,41 @@ Whitelist your device ID in (https://github.com/AigangNetwork/aigang-platform-we
 - 1 Android battery insurance product
 --// TODO Link to insurance product
 
-## Bugs Registration
+## Bugs Registration  
 All bugs should be registered here: https://github.com/AigangNetwork/aigang-platform-web/issues or by email: team@aigang.network
 
 Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will be not rewarded. 
 
-## Actions to avoid
+## Actions to avoid  
+
 Testing on accounts other than those that you own
 Excessive request attempts
 Destruction of data
 
-## Ineligible issues
-Theoretical vulnerabilities without actual proof of concept
-Email verification deficiencies, expiration of password reset links, and password complexity policies
-Invalid or missing SPF (Sender Policy Framework) records (incomplete or missing SPF/DKIM/DMARC)
-Clickjacking/UI redressing with minimal security impact
-Email enumeration - For example, the ability to identify emails via password reset.
-Information disclosure with minimal security impact (stack traces, path disclosure, directory listings)
-Internally known issues, duplicate issues, or issues which have already been made public
-Tab-nabbing
-Vulnerabilities only exploitable on out-of-date browsers or platforms
-Vulnerabilities related to auto-fill web forms
-Use of known vulnerable libraries without actual proof of concept
-Lack of security flags in cookies
-Issues related to unsafe SSL/TLS cipher suites or protocol version
-Content spoofing
-Cache-control related issues
-Missing security headers that do not lead to direct exploitation
-CSRF with negligible security impact
-Vulnerabilities that require root/jailbreak
-Vulnerabilities that require physical access to a user's device
+## Ineligible issues  
 
-## Communication Channels
+Theoretical vulnerabilities without actual proof of concept  
+Email verification deficiencies, expiration of password reset links, and password complexity policies  
+Invalid or missing SPF (Sender Policy Framework) records (incomplete or missing SPF/DKIM/DMARC)  
+Clickjacking/UI redressing with minimal security impact  
+Email enumeration - For example, the ability to identify emails via password reset.  
+Information disclosure with minimal security impact (stack traces, path disclosure, directory listings)  
+Internally known issues, duplicate issues, or issues which have already been made public  
+Tab-nabbing  
+Vulnerabilities only exploitable on out-of-date browsers or platforms  
+Vulnerabilities related to auto-fill web forms  
+Use of known vulnerable libraries without actual proof of concept  
+Lack of security flags in cookies  
+Issues related to unsafe SSL/TLS cipher suites or protocol version  
+Content spoofing  
+Cache-control related issues  
+Missing security headers that do not lead to direct exploitation  
+CSRF with negligible security impact  
+Vulnerabilities that require root/jailbreak  
+Vulnerabilities that require physical access to a user's device  
+
+## Communication Channels  
+  
 | Developers  | https://gitter.im/AigangNetwork/Lobby  |
 | ------------ | ------------ |
 | Telegram (community)  | https://t.me/aigangnetwork  |
@@ -94,7 +99,7 @@ Vulnerabilities that require physical access to a user's device
 
 
 ## Extra information
-Developers wiki page	https://aigangnetwork.github.io/
+Developers wiki page https://aigangnetwork.github.io/  
 AIX faucet (Ropsten network)	https://aigangnetwork.github.io/testaix/
 Documentation	https://aigang.readthedocs.io/en/latest/
 
