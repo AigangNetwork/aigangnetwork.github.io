@@ -1,6 +1,7 @@
 [back](https://aigangnetwork.github.io)  
   
-# Aigang.Network Bug Bounty (2018-11-01 - 2018-11-30) 
+# Aigang.Network Bug Bounty 
+###(2018-11-01 - 2018-11-30) 
 
 ## About
 We are Aigang Team and we are targeting to build next-generation insurance product.
@@ -15,12 +16,12 @@ Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted
 
 Aigang may award an additional reward bonus for exceptional reports, or double up your reward if you submit a pull request with issue fix.
 
-|   | Technical Severity  | Reward Range  |
-| ------------ | ------------ | ------------ |
-| LEVEL 1 | Critical  | $500 - $1000 |
-| LEVEL 2 | Severe  | $250 - $500  |
-| LEVEL 3 | Moderate  | $60 - $150  |
-| LEVEL 4 | Low  | $0 - $60  |
+|         | Technical Severity | Reward Range |
+|---------|--------------------|--------------|
+| LEVEL 1 | Critical           | $500 - $1000 |
+| LEVEL 2 | Severe             | $250 - $500  |
+| LEVEL 3 | Moderate           | $60 - $150   |
+| LEVEL 4 | Low                | $0 - $60     |
 
 Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.
 
