@@ -26,7 +26,7 @@ LEVEL 4  Low:      **$0 - $60**
  
 *Please note that the TEAM will decide which level will be assigned for the issue and what reward will be paid.*  
 
-*We created the form where you can register for reward: //TODO: Add Link*  
+*We created the form where you can register for reward: [https://goo.gl/forms/xJJpOnlw22LGkVbl1](https://goo.gl/forms/xJJpOnlw22LGkVbl1)*  
 
 ## Testing Targets
   
@@ -49,8 +49,8 @@ Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-w
 
  We setup:
 - 1 datasheet with our model: 
--- Data - https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/
--- Model - https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/
+- - Data - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/)
+- - Model - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/)
 - 3 predictions with initial balances:
 --// TODO Link to 1 prediction
 --// TODO Link to 2 prediction
@@ -96,13 +96,13 @@ Vulnerabilities that require physical access to a user's device
   
 **Developers** - [https://gitter.im/AigangNetwork/Lobby](https://gitter.im/AigangNetwork/Lobby)  
 **Telegram (community)** - [https://t.me/aigangnetwork](https://t.me/aigangnetwork)  
-**Email** - team@aigang.network
+**Email** - [team@aigang.network](team@aigang.network)
 
 
 ## Extra information
-Developers wiki page https://aigangnetwork.github.io/  [https://aigangnetwork.github.io/  ](https://aigangnetwork.github.io/   "https://aigangnetwork.github.io/  ")  
-AIX faucet (Ropsten network)	[https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/ "https://aigangnetwork.github.io/testaix/")  
-Documentation	[https://aigang.readthedocs.io/en/latest/](https://aigang.readthedocs.io/en/latest/ "https://aigang.readthedocs.io/en/latest/")  
+Developers wiki page [https://aigangnetwork.github.io/](https://aigangnetwork.github.io/)  
+AIX faucet (Ropsten network) [https://aigangnetwork.github.io/testaix/](https://aigangnetwork.github.io/testaix/)  
+Documentation  [https://aigang.readthedocs.io/en/latest/](https://aigang.readthedocs.io/en/latest/)  
 
 
 *Company reserves the right, in its sole discretion, to modify this Program rules at any time.*
