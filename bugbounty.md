@@ -28,7 +28,7 @@ LEVEL 4  Low:      **$0 - $60**
 
 *We created the form where you can register for reward: [https://goo.gl/forms/xJJpOnlw22LGkVbl1](https://goo.gl/forms/xJJpOnlw22LGkVbl1)*  
 
-## Testing Targets
+## Testing targets
   
 **website** - [https://testplatform.aigang.network/](https://testplatform.aigang.network/)  
 **api** - [https://testapi.aigang.network/swagger/](https://testapi.aigang.network/swagger/)  
@@ -58,7 +58,7 @@ Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-w
 - 1 Android battery insurance product
 - - // TODO Link to insurance product
 
-## Bugs Registration  
+## Bugs registration  
 
 All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: team@aigang.network  
 
