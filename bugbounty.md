@@ -15,7 +15,7 @@ This bounty brief describes the rules of the Aigang bug bounty program, as well 
 
 ## Reward
 
-Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted the Aigang team will ask for your email address associated with your wallet to send your payment. 
+Rewards will be paid out in AIX (Aigang Token). Once your submission is accepted the Aigang team will ask for your email address associated with your wallet to send you a reward. For this program we are setting up to 10,000$ budget!
 
 Aigang may award an additional reward bonus for exceptional reports, or double up your reward if you submit a pull request with issue fix.
  
@@ -47,22 +47,23 @@ Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-w
 
 ## Scenario
 
- We setup:
-- 1 datasheet with our model: 
-- - Data - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/)
-- - Model - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/)
-- 3 predictions with initial balances:
-- - // TODO Link to 1 prediction
-- - // TODO Link to 2 prediction
-- - // TODO Link to 3 prediction
-- 1 Android battery insurance product
-- - // TODO Link to insurance product
+ We setup:  
+- 1 datasheet with our model:  
+- - Data - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/)  
+- - Model - [https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/](https://testplatform.aigang.network/data/2b6e482338504b0fa7f1d5bcf3874e02/models/bb93ed105c9f4a2498ac981792c5d20f/)  
+- 3 predictions with initial balances:  
+- - 1 prediction [https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff314](https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff314) 
+- - 2 prediction [https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff315](https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff315)  
+- - 3 prediction [https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff316](https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff316)  
+- - Each day we will create some random short-term predictions.  
+- 1 Android battery insurance product  
+- - [https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19](https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19) - 4 days long policies and 10 AIX base premium.  
 
 ## Bugs registration  
 
 All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: team@aigang.network  
 
-Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will be not rewarded.  
+Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will not be rewarded.  
 
 ## Actions to avoid  
 
@@ -95,7 +96,6 @@ Vulnerabilities that require physical access to a user's device
 ## Communication channels  
   
 **Developers** - [https://gitter.im/AigangNetwork/Lobby](https://gitter.im/AigangNetwork/Lobby)  
-**Telegram (community)** - [https://t.me/aigangnetwork](https://t.me/aigangnetwork)  
 **Email** - [team@aigang.network](team@aigang.network)  
 
 
