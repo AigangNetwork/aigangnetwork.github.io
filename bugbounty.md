@@ -56,12 +56,12 @@ Whitelist your device ID in ([https://github.com/AigangNetwork/aigang-platform-w
 - - 2 prediction [https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff315](https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff315)  
 - - 3 prediction [https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff316](https://testplatform.aigang.network/predictions/prediction/558f1822aefb4815ae0d1796597ff316)  
 - - Each day we will create some random short-term predictions.  
-- 1 Android battery insurance product  
-- - [https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19](https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19) - 4 days long policies and 10 AIX base premium.  
+- 1 Android battery insurance product:  
+- - Android - [https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19](https://testplatform.aigang.network/insurance/products/c36ad8690cb7462286948da2ef152a19) 4 days long policies and 10 AIX base premium.  
 
 ## Bugs registration  
 
-All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: team@aigang.network  
+All bugs should be registered here: [https://github.com/AigangNetwork/aigang-platform-web/issues](https://github.com/AigangNetwork/aigang-platform-web/issues) or by email: [team@aigang.network](team@aigang.network)  
 
 Please note that only vulnerabilities with a working proof of concept that shows how it can be exploited or reproduced will be considered eligible for monetary rewards! Not reproducible or duplicate issues will not be rewarded.  
 
