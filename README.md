@@ -1,7 +1,7 @@
 # Aigang.Network Developers wiki page  
 
 - [MainPage](https://aigang.network)  
-- [Whitepaper](https://aigang.network/whitepaper)  
+- [Roadmap](https://docs.google.com/document/d/1e6GJCN2W39nkqQQ3oZLCq0iX7LfqsGUcPjCt00YeQfg/edit?usp=sharing)  
 - [Platform Documentation](http://aigang.readthedocs.io/en/latest/)  
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
 - [Company FAQ](FAQ.html)  
@@ -15,6 +15,7 @@
 ## Communication
 
 - [Gitter Chat](https://gitter.im/AigangNetwork/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
+- [Reddit](https://www.reddit.com/r/AigangNetwork/)
 - [Medium](https://medium.com/aigang-network)  
 - [Telegram](https://t.me/aigangnetwork)  
 - [Twitter](https://twitter.com/aigangnetwork)  
