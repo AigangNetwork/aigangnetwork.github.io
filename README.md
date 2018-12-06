@@ -5,7 +5,6 @@
 - [Platform Documentation](http://aigang.readthedocs.io/en/latest/)  
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
 - [Company FAQ](FAQ.html)  
-- [Bug Bounty](bugbounty.html)  
   
 ## Backlogs  
 
