@@ -2,7 +2,7 @@
 
 - [MainPage](https://aigang.network)  
 - [Roadmap](https://docs.google.com/document/d/1e6GJCN2W39nkqQQ3oZLCq0iX7LfqsGUcPjCt00YeQfg/edit?usp=sharing)  
-- [Platform Documentation](http://aigang.readthedocs.io/en/latest/)  
+- [Platform Documentation witch centralized backend](http://aigang.readthedocs.io/en/latest/)- [Platform Documentation self-hosted framework](https://github.com/AigangNetwork/aigang-platform-web/blob/master/README.md)
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
 - [Company FAQ](FAQ.html)  
   
