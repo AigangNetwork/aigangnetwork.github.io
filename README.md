@@ -2,7 +2,7 @@
 
 - [MainPage](https://aigang.network)  
 - [Roadmap](https://docs.google.com/document/d/1e6GJCN2W39nkqQQ3oZLCq0iX7LfqsGUcPjCt00YeQfg/edit?usp=sharing)  
-- [Platform Documentation witch centralized backend](http://aigang.readthedocs.io/en/latest/)- [Platform Documentation self-hosted framework](https://github.com/AigangNetwork/aigang-platform-web/blob/master/README.md)
+- [Platform Documentation for centralized backend](http://aigang.readthedocs.io/en/latest/)- [Platform Documentation self-hosted framework](https://github.com/AigangNetwork/aigang-platform-web/blob/master/README.md)
 - [Development Reviews](https://github.com/AigangNetwork/aigangnetwork.github.io/wiki)  
 - [Company FAQ](FAQ.html)  
   
@@ -34,7 +34,7 @@ Test AIX fauset - [https://aigangnetwork.github.io/testaix/](https://aigangnetwo
 
 ## Contribution
 
-Everyone is welcome to contribute in development, testing, insurance products creating, risk models calculations, marketing, communication, etc... Our goal is to create open source insurance platform where all insurance specialists can easily enter and help us make this product stronger and more popular.  
+Everyone is welcome to contribute to development, testing, insurance products creation, risk model calculations, marketing, communication, etc... Our goal is to create an open source insurance platform where all insurance specialists can easily enter and help us make this product stronger and more popular.  
 
 
 
